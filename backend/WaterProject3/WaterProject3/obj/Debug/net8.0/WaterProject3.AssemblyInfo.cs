@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterProject3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3ac29ed4ba747c2e3e9c38048416a5698b862e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterProject3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterProject3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

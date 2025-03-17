@@ -135,3 +135,4 @@ C:\Users\natha\source\repos\WaterProject3\backend\WaterProject3\WaterProject3\ob
 C:\Users\natha\source\repos\WaterProject3\backend\WaterProject3\WaterProject3\obj\Debug\net8.0\WaterProject3.genruntimeconfig.cache
 C:\Users\natha\source\repos\WaterProject3\backend\WaterProject3\WaterProject3\obj\Debug\net8.0\ref\WaterProject3.dll
 C:\Users\natha\source\repos\WaterProject3\backend\WaterProject3\WaterProject3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\natha\source\repos\WaterProject3\backend\WaterProject3\WaterProject3\obj\Debug\net8.0\WaterProject3.sourcelink.json
