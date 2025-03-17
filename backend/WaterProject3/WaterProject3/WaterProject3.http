@@ -1,0 +1,6 @@
+@WaterProject3_HostAddress = http://localhost:5152
+
+GET {{WaterProject3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
